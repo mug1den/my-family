@@ -1,2 +1,3 @@
 # my-family
-everything we know about us
+Everything we know about us.
+This editor person nothing about creating websites.
